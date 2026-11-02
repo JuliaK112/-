@@ -7,3 +7,5 @@
 
 print(94984)
 print('сисимасиси')
+
+print("iehev ,ehev")
